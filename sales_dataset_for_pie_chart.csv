@@ -1,0 +1,101 @@
+Order ID,Customer Name,Region,Product Category,Sales Amount
+ee58aa6d,Diana,West,Home & Kitchen,472.56
+fe65771b,Bob,East,Clothing,73.24
+d30cf8a2,Fiona,North,Home & Kitchen,278.33
+14b1d6fc,George,South,Electronics,19.61
+d45f39e0,Hannah,South,Books,228.49
+8cab0990,Bob,North,Toys,324.59
+647d8529,Bob,South,Toys,287.61
+3892d793,Diana,West,Clothing,138.16
+1af3fbd1,Fiona,East,Home & Kitchen,175.37
+b4ca88bc,Bob,East,Electronics,323.36
+ba4bae28,Charlie,South,Books,188.07
+7b1ee7ed,Fiona,North,Clothing,417.55
+b6694c21,Hannah,South,Clothing,454.94
+55a3d384,Diana,South,Clothing,35.55
+5053efde,George,North,Home & Kitchen,245.36
+e2641e2e,Alice,South,Clothing,187.6
+bc4287da,Alice,South,Home & Kitchen,118.31
+d4867375,Alice,East,Home & Kitchen,47.81
+b7bd9434,Charlie,East,Home & Kitchen,497.64
+7a78e2e3,Ethan,East,Toys,349.85
+ea9f8a94,Diana,North,Electronics,179.79
+286ca94c,Bob,North,Electronics,13.29
+7d90bddc,Charlie,West,Home & Kitchen,145.72
+7d63d83b,Hannah,North,Books,212.16
+c14926e9,Charlie,East,Clothing,53.49
+bcbe40e3,Alice,East,Home & Kitchen,335.69
+3ad9c187,Charlie,West,Home & Kitchen,439.39
+6309c6e4,Alice,South,Clothing,223.58
+d0967bf6,Fiona,North,Books,264.14
+2126a913,Bob,East,Toys,277.47
+ef0401ad,Fiona,East,Clothing,335.81
+81d0b86c,Diana,East,Electronics,427.06
+22d9ae85,Charlie,North,Books,56.86
+8d38d965,Ethan,South,Home & Kitchen,305.53
+fc5bcb60,Ethan,South,Clothing,77.96
+0e4de9d3,Hannah,South,Home & Kitchen,69.67
+af386cd8,Fiona,North,Toys,477.16
+a34bf8bd,Fiona,North,Toys,114.45
+4c35dbbb,Fiona,South,Electronics,194.93
+1242429f,Bob,West,Electronics,343.86
+f8216d7e,Diana,South,Toys,495.49
+37aea5c3,Fiona,West,Clothing,317.31
+aff9ff34,Hannah,South,Electronics,343.98
+2bc64f01,Bob,South,Toys,484.29
+88aa4e3a,Bob,South,Toys,148.91
+fb243b3e,George,South,Home & Kitchen,284.63
+2b1e2a1c,Fiona,East,Electronics,340.99
+68654245,George,West,Books,21.56
+c6ac85db,Charlie,West,Clothing,301.25
+a42a6fc4,Hannah,West,Home & Kitchen,147.0
+b1d6a33c,Alice,South,Clothing,301.26
+36892f2e,Alice,North,Clothing,94.78
+0b3ee524,Ethan,East,Books,344.13
+65f7fa42,Diana,East,Toys,44.27
+0b15b1d5,Bob,South,Books,16.18
+cc3e2ec7,Diana,North,Electronics,22.26
+3696aece,Alice,South,Clothing,406.74
+e3e5b635,Hannah,North,Clothing,261.65
+77632a94,Diana,East,Clothing,362.74
+bdbcac3b,Bob,North,Toys,470.87
+71104f76,Diana,West,Toys,108.84
+bd8e40eb,Bob,East,Toys,290.01
+a5ba9134,Fiona,East,Electronics,178.41
+b6ed5aef,Bob,North,Home & Kitchen,204.95
+a98203d7,Diana,South,Home & Kitchen,147.74
+76d8ec4f,Bob,North,Home & Kitchen,459.24
+2dd29af5,George,South,Clothing,464.57
+8ed3e64c,Ethan,East,Electronics,80.23
+69d513ff,George,North,Home & Kitchen,309.91
+d3bf797a,Diana,West,Electronics,33.51
+3e8343d5,Alice,West,Home & Kitchen,304.7
+9306b612,Fiona,South,Electronics,391.19
+556188de,George,South,Electronics,398.25
+1b59c292,Ethan,East,Electronics,205.51
+f2148fa7,Fiona,West,Books,270.24
+955c6be4,George,West,Books,135.09
+b2db3fbf,Diana,South,Electronics,283.16
+fe266d81,Fiona,North,Electronics,114.74
+03751c09,Hannah,West,Home & Kitchen,71.63
+8ea6d51b,Ethan,West,Home & Kitchen,220.01
+49e7ce02,Alice,East,Electronics,28.45
+46a524b6,Diana,West,Home & Kitchen,243.91
+106c4db2,Alice,South,Clothing,210.7
+6b05cb38,Diana,East,Home & Kitchen,168.87
+39d88243,Bob,East,Electronics,302.81
+4bd2ce55,Ethan,South,Electronics,417.61
+b5d3cf5c,Bob,North,Toys,222.33
+b1efaae0,Charlie,South,Toys,228.62
+0a5c8f4a,George,South,Clothing,267.17
+76674f44,Diana,East,Clothing,217.76
+e9df9478,Ethan,North,Home & Kitchen,64.97
+461add13,Fiona,East,Electronics,59.21
+47b83a46,Fiona,East,Home & Kitchen,236.55
+f7b3e465,Fiona,West,Books,295.76
+242a3a81,Hannah,North,Clothing,380.82
+dbea61b6,Alice,North,Books,420.56
+d84e65e4,Hannah,North,Clothing,352.28
+7d2b2e64,Hannah,South,Home & Kitchen,347.35
+c04db5c5,Fiona,North,Books,306.92
+887c6d67,Bob,East,Toys,233.01
